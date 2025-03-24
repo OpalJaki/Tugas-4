@@ -5,7 +5,7 @@
 # 1. Jelaskan struktur antar hubungan dan beri contohnya!
 Struktur hubungan antar komponen dalam komputer dikenal sebagai sistem BUS. BUS merupakan subsistem yang berperan dalam mentransfer data atau daya listrik antara komponen-komponen di dalam komputer atau antar komputer. Dalam sistem komputer, BUS mencakup perangkat internal dan memiliki kecepatan tinggi dalam mentransmisikan informasi.  
 
-**Contoh BUS:**  
+**Contoh:**  
 - **PCI (Peripheral Component Interconnect)**  
   PCI adalah bus yang dirancang untuk menghubungkan berbagai perangkat keras. Bus ini memiliki bandwidth tinggi dan tidak bergantung pada prosesor, sehingga dapat digunakan sebagai bus mezzanine atau bus periferal. Standar PCI dikembangkan oleh PCI Special Interest Group, yang dibentuk oleh Intel Corporation bersama beberapa perusahaan lainnya pada tahun 1992. PCI hadir untuk menggantikan Bus ISA/EISA yang sebelumnya digunakan pada komputer IBM PC dan kompatibelnya.  
 
